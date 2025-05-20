@@ -2,8 +2,8 @@
 
 Uma plataforma interativa com quizzes e conteúdos sobre:
 - Lógica de Programação
-- Python
-- Scratch
+- Python 
+- Scratch 
 - Cibersegurança
 - Sustentabilidade Digital
 - LGPD
