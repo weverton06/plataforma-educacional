@@ -1,0 +1,5 @@
+usuario_atual.json
+progresso.json
+resultados.json
+__pycache__/
+*.pyc
